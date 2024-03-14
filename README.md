@@ -1,1 +1,1 @@
-# Sale-Analysis-Report
+This project aims to analyse the sales performance data, for year 2014-2017. The data examined to identify top performers, track sales trends, and uncover areas for improvement. This analysis provide valuable insights to optimize sales strategies and foster sales growth .# Sale-Analysis-Report
